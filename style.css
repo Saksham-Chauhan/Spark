@@ -1,0 +1,83 @@
+.logo img {
+    display: inline-block; 
+    max-height: 55px;
+    width: auto; 
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 10px;
+   
+}
+#wel{
+    color: black;
+}
+body {
+    margin: 0;
+    padding : 0;
+    background: gray;
+    background-image: url(/img/home.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+nav {
+    width: 100%;
+    background: #ff0e3e;
+    overflow: auto;
+    font-weight: bold;
+    text-shadow: aqua;
+    
+}
+ul {
+    margin:  0 0 0 150px;
+    padding: 0;
+    list-style : none;
+}
+li {
+    float: left;
+}
+nav a{
+    width:100px;
+    display : block;
+    text-decoration: none;
+    padding: 20px 15px;
+    font-family: arial;
+    color: #000;
+    text-align: center; 
+}
+nav a:hover {
+    background: white;
+    transition: 0.5s;
+    text-transform: uppercase;
+    border-radius: 40px;
+}
+#abc {
+    margin-top: 1200px;
+    color: yellow;
+}
+.footer {
+    display: flex;
+    color: white;
+    background: rgb(0, 0, 0);
+    text-align: center;
+    justify-content: center;
+    height: 100px;
+}
+p{
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+}
+.Bank-Name {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    line-height: 50px;
+    color: rgb(7, 7, 7);   
+    
+}
+
+h1{
+    color: whitesmoke;
+    text-decoration: underline;
+}
