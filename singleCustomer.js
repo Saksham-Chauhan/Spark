@@ -1,10 +1,11 @@
-var firebaseConfig = {
-    apiKey: "AIzaSyDOPdwsUHo3ExGfbQkHH9al43AB4oUkrCs",
-    authDomain: "bank-system-52201.firebaseapp.com",
-    projectId: "bank-system-52201",
-    storageBucket: "bank-system-52201.appspot.com",
-    messagingSenderId: "87345930564",
-    appId: "1:87345930564:web:01a7bac7f9bee536cd3711"
+  var firebaseConfig = {
+    apiKey: "AIzaSyDWSE17N2nRidj_VlRNedB0C3QxlibwYHE",
+    authDomain: "banking-system-9c45a.firebaseapp.com",
+    databaseURL: "https://banking-system-9c45a-default-rtdb.firebaseio.com",
+    projectId: "banking-system-9c45a",
+    storageBucket: "banking-system-9c45a.appspot.com",
+    messagingSenderId: "597777499449",
+    appId: "1:597777499449:web:0714abf52fe1fe844c54e8"
   };
   
   
